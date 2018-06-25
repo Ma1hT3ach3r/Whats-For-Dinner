@@ -1,3 +1,4 @@
+function draw(){
 background(186, 145, 20); 
 
 ellipse(202, 206, 385, 385);
@@ -26,3 +27,4 @@ fill(220, 230, 87); //muffin
 
 ellipse(191, 166, 63, 57);
 rect(159, 166, 63, 34); 
+};
